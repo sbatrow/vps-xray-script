@@ -64,7 +64,7 @@ https://github.com/2dust/v2rayNG)
 
 1) sudo rm  -rf  ~/bash-xray-script
 
-2) sudo git clone https://github.com/iamtrazy/bash-xray-script
+2) sudo git clone https://github.com/sbatrow/vps-xray-script
 
 3) cd bash-xray-script
 
