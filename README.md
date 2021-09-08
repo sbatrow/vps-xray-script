@@ -1,14 +1,12 @@
 # vps-xray-script
-create own v2ray-xray server using vps 
 
-# Bash|Xray-Script
-
-* UPDATE 21/05/2021 - added xray-nodomain script (see usage and installation below)
+* UPDATE 8/09/2021 
 
 
-![logo](https://telegra.ph/file/4e19dd26926234ca32b68.jpg)
+![logo](https://telegra.ph/file/7b4030d597e597aa45a4b.jpg)
 
 
+Using Xray-Script you can experience a high speed network connection / Low ping / Full stable connection ...
 
 Xray-Script එක Use කරල ඔයාට High speed Network Connection එකක් / Low ping / Full stable Connection එකක් අත්විදින්න පුලුවන් ...
 
@@ -16,6 +14,10 @@ Xray-Script එක Use කරල ඔයාට High speed Network Connection එ�
 Manage Script
 
 ## :heavy_exclamation_mark: Requirements
+
+* Vps with Ubuntu 20.04 or Ubuntu-latest OS.
+* A UUID (Generate a UUID via V2rayN or http://uuidgenerator.net).
+* Use xray-nodomain script to connect directly from IP without using DNS.
 
 * Ubuntu 20.04 or Ubuntu-latest Os එක සහිත Vps එකක්.
 * UUID එකක් (V2rayN මගින් හෝ http://uuidgenerator.net මගින් UUID එකක් Genarate කරගන්න).
@@ -26,9 +28,9 @@ Manage Script
 
 1)apt-get update -y && apt-get upgrade -y
 
-2)sudo reboot (update එකෙන් පසු restart කිරීමට)
+2)sudo reboot (To restart after the update)
 
-4)sudo git clone https://github.com/iamtrazy/bash-xray-script
+4)sudo git clone https://github.com/sbatrow/vps-xray-script
 
 5)cd bash-xray-script
 
@@ -39,6 +41,11 @@ Manage Script
 ------------------------------------------
 
 ## :book: How To Connect
+
+1) If you are an Android user, download V2rayNG (
+https://github.com/2dust/v2rayNG)
+
+2) If you are a Windows user, download V2rayN or Netch software
 
 1)Android User කෙනෙක්නම් V2rayNG Download කරගන්න (
 https://github.com/2dust/v2rayNG)
@@ -69,7 +76,5 @@ https://github.com/2dust/v2rayNG)
 
 1. https://github.com/teddysun - BBR autoscript
 2. Team Rezoth - Contributor
-3. @Savinda1 - for the awesome readme file 😎
 
-
-☆ https://t.me/rezoth_tm ☆
+☆😁 https://t.me/batrow_support 😁☆
