@@ -50,7 +50,7 @@ https://github.com/2dust/v2rayNG)
 1)Android User කෙනෙක්නම් V2rayNG Download කරගන්න (
 https://github.com/2dust/v2rayNG)
 
-2)Windows User කෙනෙක්නම් V2rayN හො Netch Software දෙක Download කරගන්න
+2)Windows User කෙනෙක්නම් V2rayN හො Netch Software දෙක Download කරගන්න https://drive.google.com/file/d/1RDbpKUIqYdE2aMjdm5QkRDhIetx2GiyV/view?usp=sharing
 
 ![logo](https://telegra.ph/file/372eb568ce7a7776aa8c4.jpg)
 
