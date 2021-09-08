@@ -32,7 +32,7 @@ Manage Script
 
 4)sudo git clone https://github.com/sbatrow/vps-xray-script
 
-5)cd bash-xray-script
+5)cd vps-xray-script
 
 6)sudo chmod 777 xray-nodomain.sh
 
@@ -66,7 +66,7 @@ https://github.com/2dust/v2rayNG)
 
 2) sudo git clone https://github.com/sbatrow/vps-xray-script
 
-3) cd bash-xray-script
+3) cd vps-xray-script
 
 4) sudo chmod 777 remove-xray.sh
 
