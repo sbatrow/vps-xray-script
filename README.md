@@ -26,18 +26,30 @@ Manage Script
 ------------------------------------------
 ## :book: Installation - Without DNS
 
-1)apt-get update -y && apt-get upgrade -y
-
-2)sudo reboot (To restart after the update)
-
-4)sudo git clone https://github.com/sbatrow/vps-xray-script
-
-5)cd vps-xray-script
-
-6)sudo chmod 777 xray-nodomain.sh
-
-7)sudo ./xray-nodomain.sh
-
+1)
+```
+apt-get update -y && apt-get upgrade -y
+```
+2)
+```
+sudo reboot (To restart after the update)
+```
+4)
+```
+sudo git clone https://github.com/sbatrow/vps-xray-script
+```
+5)
+```
+cd vps-xray-script
+```
+6)
+```
+sudo chmod 777 xray-nodomain.sh
+```
+7)
+```
+sudo ./xray-nodomain.sh
+```
 ------------------------------------------
 
 ## :book: How To Connect
