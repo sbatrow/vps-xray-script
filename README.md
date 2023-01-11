@@ -11,7 +11,7 @@ Using Xray-Script you can experience a high speed network connection / Low ping 
 Xray-Script එක Use කරල ඔයාට High speed Network Connection එකක් / Low ping / Full stable Connection එකක් අත්විදින්න පුලුවන් ...
 
 
-Manage Script
+Manage Scrip
 
 ## :heavy_exclamation_mark: Requirements
 
